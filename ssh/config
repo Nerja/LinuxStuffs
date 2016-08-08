@@ -1,0 +1,5 @@
+Host vps
+IdentityFile ~/.ssh/id_rsa
+HostName XXX.XXX.XXX.XXX
+User root
+Port 22
